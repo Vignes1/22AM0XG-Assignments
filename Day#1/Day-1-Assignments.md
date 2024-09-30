@@ -41,6 +41,18 @@
 ![image](https://github.com/user-attachments/assets/67240517-cc97-41f5-ab56-28a78847058d)
 ![image](https://github.com/user-attachments/assets/b65f31fe-8715-4b0b-a60f-932ef4ad9079)
 ![image](https://github.com/user-attachments/assets/3f96064c-8cc3-42c0-88d9-46d15592bad1)
+![image](https://github.com/user-attachments/assets/aee0ed7b-143e-483c-bc36-ae65056f1527)
+![image](https://github.com/user-attachments/assets/a77cf858-3cce-4d1f-95ba-2cb2c24e6eb0)
+![image](https://github.com/user-attachments/assets/c22fc3b3-f57e-40fa-b635-ed8bbd3fc859)
+![image](https://github.com/user-attachments/assets/66e7c741-86f2-4f9b-a7e5-52a3aa256cc0)
+![image](https://github.com/user-attachments/assets/b1fc1ce3-7511-4797-8db0-1ffe6572cbc2)
+![image](https://github.com/user-attachments/assets/9f3593b5-5367-4e5c-8489-0c417ed527b7)
+![image](https://github.com/user-attachments/assets/9b583a15-0a1b-424a-a7f2-947ab2e0a8fd)
+![image](https://github.com/user-attachments/assets/13a2b382-b445-4a45-85f3-d0391dfafc72)
+
+
+
+
 
 
 
@@ -84,12 +96,13 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/c4ba89fa-9662-4c68-81a2-e3b413d53696)
+
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+![1111](https://github.com/user-attachments/assets/891d1494-86e6-4b00-a147-c82cba82aea2)
 
 ***
 
