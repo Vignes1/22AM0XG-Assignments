@@ -102,7 +102,8 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-![1111](https://github.com/user-attachments/assets/891d1494-86e6-4b00-a147-c82cba82aea2)
+![image](https://github.com/user-attachments/assets/de506d94-5206-43b8-a7de-0a645df019d4)
+
 
 ***
 
