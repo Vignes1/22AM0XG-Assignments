@@ -8,7 +8,7 @@
 | <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
 | <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
 | <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
-| <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
+| <ul><li>- [x] </li></ul> | Commit all the code to GitHub Repo |
 | <ul><li>- [x] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
 | <ul><li>- [x] </li></ul> | Create a post on Linkedin  |
 
@@ -37,6 +37,7 @@
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
+![image](https://github.com/user-attachments/assets/588cea03-b0a8-4f69-ac2d-74ac20d285ee)
 
 
 
